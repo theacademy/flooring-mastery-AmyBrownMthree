@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Amy Browne,Texas,4.45,Laminate,101.00,1.75,2.10,176.75,212.10,17.30,406.15

@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Amy Brown,Texas,4.45,Tile,150.00,3.50,4.15,525.00,622.50,51.06,1198.56
